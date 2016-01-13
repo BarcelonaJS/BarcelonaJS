@@ -20,7 +20,7 @@
     "twitter": "lcrespom",
     "sameAs": "https://twitter.com/@lcrespom",
     "url": "/talk/20160112-sound-synthesis-with-web-audio.html",
-    "image": "https://avatars3.githubusercontent.com/u/5002130?v=3&s=400"
+    "image": "https://twitter.com/lcrespom/profile_image?size=original"
   }
 }
 ---
