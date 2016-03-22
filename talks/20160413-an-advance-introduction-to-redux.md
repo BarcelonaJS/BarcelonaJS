@@ -7,15 +7,15 @@
   "id": "20160413-an-advance-introduction-to-redux",
   "performer": {
     "type": "Person",
-    "githubId": 1311781,
-    "id": "jesus-quintana",
-    "name": "Jesus Quintana",
+    "githubId": 1851103,
+    "id": "jorge-lucic",
+    "name": "Jorge Lucic",
     "location": "Barcelona, Spain",
-    "github": "marduke182",
+    "github": "jvlucic",
     "gravatar": "",
-    "url": "https://api.github.com/users/marduke182",
-    "image": "https://avatars.githubusercontent.com/u/1311781?v=3",
-    "twitter": "marduke182 @jvlucic"
+    "url": "https://api.github.com/users/jvlucic",
+    "image": "https://avatars.githubusercontent.com/u/1851103?v=3",
+    "twitter": "@jvlucic"
   },
   "superEvent": {
     "type": "Social event",
