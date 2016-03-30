@@ -1,18 +1,8 @@
 [
   {
     "name": "Mobile World Centre",
-    "image": "mwc-white.svg",
+    "image": "logo-mobile.png",
     "url": "https://www.mobileworldcentre.com"
-  },
-  {
-    "name": "Mobile World Capital",
-    "image": "capital.svg",
-    "url": "http://mobileworldcapital.com"
-  },
-  {
-    "name": "movistar",
-    "image": "movistar.svg",
-    "url": "http://www.movistar.es"
   },
   {
     "name": "3scale",
