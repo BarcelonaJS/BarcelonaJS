@@ -1,21 +1,21 @@
-[
-  {
-    "name": "Mobile World Centre",
-    "image": "logo-mobile.png",
-    "url": "https://www.mobileworldcentre.com"
-  },
-  {
-    "name": "3scale",
-    "image": "3scale.svg",
-    "url": "http://3scale.com/?ref=bcnjssite"
-  },
-  {
-    "name": "redradix",
-    "image": "redradix.svg",
-    "url": "http://redradix.com"
-  },{
-    "name": "Schibsted",
-    "image": "schibsted_spain.svg",
-    "url": "http://www.schibsted.com/en/"
-  }
-]
+[{
+  "name": "Mobile World Centre",
+  "image": "logo-mobile.png",
+  "url": "https://www.mobileworldcentre.com"
+}, {
+  "name": "3scale",
+  "image": "3scale.svg",
+  "url": "http://3scale.com/?ref=bcnjssite"
+}, {
+  "name": "redradix",
+  "image": "redradix.svg",
+  "url": "http://redradix.com"
+}, {
+  "name": "Schibsted",
+  "image": "schibsted_spain.svg",
+  "url": "http://www.schibsted.com/en/"
+}, {
+  "name": "Wallapop",
+  "image": "wallapop.svg",
+  "url": "http://wallapop.com"
+}]
