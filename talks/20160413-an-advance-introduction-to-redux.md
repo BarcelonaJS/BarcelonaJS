@@ -33,18 +33,23 @@
     "Redux Promise",
     "Redux Saga",
     "Redux Loop"
-  ]
+  ],
+  "workPerformed": {
+   "type": "CreativeWork",
+   "learningResourceType": "presentation",
+   "url": "http://slides.com/jvlucic/deck#/"
+ }
+
 }
 ---
 
 
 Continue the talk proposal of #8 
 
-**An advance introduction to Redux:**
+**An advanced introduction to Redux:**
 
 - Explain thunk and promise middleware.
-- Managing side effects data flows with this middleware
+- Managing side effects data flows with these middlewares
 - Introduction to sagas and the benefits over thunk and promise middlewares
-- A brief example using redux-loop instead saga.
-- Using Reselect and Normalizr for performance
-- Framework Agnostic real life examples (A little Twitch Client over React, AngularJS and React Native with the same Redux logic, maybe Ember @jsangilve is helping me here) 
+- Using various tools in the Redux ecosystem to improve performance and DX
+- Some recommendations on what is important to consider when starting out new Redux projects.
