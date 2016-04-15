@@ -31,14 +31,25 @@
   "tags": [
     "react",
     "mobile"
-  ]
+  ],
+  "workPerformed": {
+    "type": "CreativeWork",
+    "learningResourceType": "presentation",
+    "url": "https://speakerdeck.com/sharnik/cross-platform-mobile-development-with-react-native"
+  }
 }
 ---
 
+# Cross platform mobile development with React Native
 
-I'd like to give an introduction on how to get started with developing cross-platform mobile applications (iOS and Android) in React Native. Some knowledge of how React works is useful, but I'd quickly go through the basic components to refresh them. 
+This talk was about developing cross-platform mobile apps using React Native. We talked about the developer experience, advantages and limitations of the platform, and whether it's a viable alternative for creating great real world products.
 
-I want to focus on answering three questions:
+In particular the talk was focused on the following questions:
+
 * What is React Native useful for?
-* Who is React Native useful for?
+* Who is React Native useful to?
 * What do I need to learn to launch my first app?
+* What are the (business) advantages of using React Native?
+
+Slides from the talk are available online: [Cross-platform mobile developement with React Native](https://speakerdeck.com/sharnik/cross-platform-mobile-development-with-react-native). However, you miss the magic of animated gifs and the soothing voice of the speaker. Well, next time just come to the meetup.
+
