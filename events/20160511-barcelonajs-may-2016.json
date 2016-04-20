@@ -44,6 +44,14 @@
       "id": "20160511-deep-dive-into-redux-performance-optimizations",
       "sameAs": "https://api.github.com/users/somebody32",
       "url": "/talk/20160511-deep-dive-into-redux-performance-optimizations.html"
+    },
+    {
+      "type": "Person",
+      "image": "https://avatars.githubusercontent.com/u/831197?v=3",
+      "name": "David G. Shannon",
+      "id": "20160511-elm-rethinking-ui",
+      "sameAs": "https://api.github.com/users/Snesi",
+      "url": "/talk/20160511-elm-rethinking-ui.html"
     }
   ]
 }
