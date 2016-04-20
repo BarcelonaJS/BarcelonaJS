@@ -35,5 +35,15 @@
   "github": "https://api.github.com/repos/BarcelonaJS/planning/issues/18",
   "url": "/event/20160511-barcelonajs-may-2016.html",
   "name": "BarcelonaJS May 2016",
-  "about": "Barcelona.JS is a usergroup focused on JavaScript and related topics."
+  "about": "Barcelona.JS is a usergroup focused on JavaScript and related topics.",
+  "performer": [
+    {
+      "type": "Person",
+      "image": "https://avatars.githubusercontent.com/u/25742?v=3",
+      "name": "Ilya Zayats",
+      "id": "20160511-deep-dive-into-redux-performance-optimizations",
+      "sameAs": "https://api.github.com/users/somebody32",
+      "url": "/talk/20160511-deep-dive-into-redux-performance-optimizations.html"
+    }
+  ]
 }
