@@ -36,7 +36,7 @@
 ---
 
 
-### Why Elm?
+Why Elm?
 
 Elm is slowly becoming a lot of people's favourite language and this talk will show you why. 
 Created by Evan Czaplicki as his thesis, the language tries to solve the problem of maintainability of JS code by reimagining how we code UI. 
