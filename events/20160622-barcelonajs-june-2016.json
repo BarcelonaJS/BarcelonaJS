@@ -18,8 +18,8 @@
     "type": "Language",
     "name": "English"
   },
-  "startDate": "2016-06-08T18:45:00Z",
-  "id": "20160608-barcelonajs-june-2016",
+  "startDate": "2016-06-22T18:45:00Z",
+  "id": "20160622-barcelonajs-june-2016",
   "organizer": {
     "type": "Organization",
     "address": {
@@ -33,7 +33,7 @@
     "url": "http://barcelonajs.org"
   },
   "github": "https://api.github.com/repos/BarcelonaJS/planning/issues/19",
-  "url": "/event/20160608-barcelonajs-june-2016.html",
+  "url": "/event/20160622-barcelonajs-june-2016.html",
   "name": "BarcelonaJS June 2016",
   "about": "Barcelona.JS is a usergroup focused on JavaScript and related topics."
 }
