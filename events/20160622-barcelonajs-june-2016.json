@@ -35,5 +35,15 @@
   "github": "https://api.github.com/repos/BarcelonaJS/planning/issues/19",
   "url": "/event/20160622-barcelonajs-june-2016.html",
   "name": "BarcelonaJS June 2016",
-  "about": "Barcelona.JS is a usergroup focused on JavaScript and related topics."
+  "about": "Barcelona.JS is a usergroup focused on JavaScript and related topics.",
+  "performer": [
+    {
+      "type": "Person",
+      "image": "https://avatars.githubusercontent.com/u/172072?v=3",
+      "name": "Nicolas Grenié",
+      "id": "20160621-build-and-manage-a-serverless-api-in-js",
+      "sameAs": "https://api.github.com/users/picsoung",
+      "url": "/talk/20160621-build-and-manage-a-serverless-api-in-js.html"
+    }
+  ]
 }
