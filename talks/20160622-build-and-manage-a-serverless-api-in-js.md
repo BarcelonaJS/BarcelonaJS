@@ -27,7 +27,7 @@
   "startDate": "2016-06-22T18:45:00Z",
   "url": "/talk/20160622-build-and-manage-a-serverless-api-in-js.html",
   "level": "beginner",
-  "language": "en",
+  "inLanguage": "en",
   "tags": ["serverless", "APIs", "AWS Lambda"]
 }
 ---
