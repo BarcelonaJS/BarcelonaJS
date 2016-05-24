@@ -14,7 +14,8 @@
     "github": "picsoung",
     "gravatar": "",
     "url": "https://api.github.com/users/picsoung",
-    "image": "https://avatars.githubusercontent.com/u/172072?v=3"
+    "image": "https://avatars.githubusercontent.com/u/172072?v=3",
+    "twitter": "picsoung"
   },
   "superEvent": {
     "type": "Social event",
@@ -24,16 +25,12 @@
   },
   "name": "Build and manage a Serverless API in JS",
   "startDate": "2016-06-22T18:45:00Z",
-  "url": "/talk/20160622-build-and-manage-a-serverless-api-in-js.html"
+  "url": "/talk/20160622-build-and-manage-a-serverless-api-in-js.html",
+  "level": "beginner",
+  "language": "en",
+  "tags": ["serverless", "APIs", "AWS Lambda"]
 }
 ---
-level: beginner
-language: en
-twitter: picsoung
-tags:
- * serverless
- * APIs
- * AWS Lambda
 
 There is currently a major shift sweeping over the software industry. We went from monolithic apps, to API-driven apps, and now software engineers are breaking their apps into "micro-services".
 Managing and connecting those different micro-services could be a hassle for DevOps.
