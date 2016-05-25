@@ -1,19 +1,19 @@
 [{
+    "title": "Front-end Jedi",
+    "description": "Be part of Marfeel, one of the hottest European start-up companies. We are recommended at the very top by Google itself for our mobile design solution and with our partners we have over 2 billion worldwide readers and over 10 billion page views. Our headquarters are based in sunny Barcelona and our office has a huge terrace to enjoy. <a href=\"https://marfeel.bamboohr.com/jobs/view.php?id=1\">View Listing</a>",
+    "companyName": "marfeel",
+    "image": "https://e44833cd6152030a2a60-68e581d3cd380d9bd1b4366f784de276.ssl.cf1.rackcdn.com/logos/cropped.jpg?v=27",
+    "url": "https://marfeel.bamboohr.com/jobs/view.php?id=1"
+}, {
     "title": "Full Stack Developer",
     "description": "We are looking for a Full Stack developer to join our team, the person will deliver Javascript development skills on the front and backend systems that power our site.  The person is expected to have good knowledge of HTML and CSS, and the ability to work with our designers and the business to implement the features required. <a href=\"https://www.linkedin.com/jobs2/view/135420648?trk=biz-overview-job-post\">View on LinkedIn</a>",
     "companyName": "Dreamstar Cash S.L.",
     "image": "http://www.dreamstarcash.com/wp-content/uploads/2015/02/522352_333574793381257_791608527_n2.jpg",
-    "url": "https://www.linkedin.com/company/dreamstar-cash-s.l.?trk=company_logo"
+    "url": "https://www.linkedin.com/company/dreamstar-cash-s.l."
 }, {
     "title": "Frontend Engineer",
     "description": "Wallapop está buscando a un Frontend para incorporar a su equipo. Trabajará en el desarrollo de nuestro website y en el  Backoffice interno y website junto con los equipos de Producto, Diseño y QA. La persona seleccionada será incluida desde el diseño a la concepción del producto, por lo que se requiere: <br /><br /><ul><li>- Dos años de experiencia en proyectos Javascript.</li><li>- Capacidad de trabajar en equipos multifuncionales.</li><li>- Conocimientos de MVC/MVVM frameworks (AngularJS, Ember.JS...), ES6.</ul><a href=\"mailto:rrhh@wallapop.com\">Apply Now</a>",
     "companyName": "Wallapop",
     "image": "http://barcelonajs.org/assets/img/sponsors/wallapop.svg",
     "url": "http://wallapop.com"
-}, {
-    "title": "Senior Frontend Engineer",
-    "description": "We are looking for a Senior Frontend Developer that will take the lead on putting our visions into groundbreaking and flawless websites. We are building a new e-commerce site for a high profile client that aims to be the absolute best of its kind and put others to shame. You will have to put your thinking hat on and come up with your best.<br /><br />Skills & Requirements<br />Your assignments will include creating full out e-Commerce front end as well as microsites, and other fun online interactive promotion materials.<br /><br />You need to have experience in:<ul><li>-Angular, React or other similar front-end frameworks</li><li>- Expert level with HTML5, CSS3, Javascript, Jquery and Responsive Design</li><li>- Grunt or Gulp or similar task management tools</li><li>- e-Commerce sites</li><li>- User Experience/Functional Design</li><li>- User Interface/GUI, Interaction Design</li><li>- You understand PHP, MySQL</li></ul><a target=\"_blank\" rel=\"nofollow\" href=\"https://www.linkedin.com/jobs2/view/117657189\">Apply Now</a>",
-    "companyName": "We Are Blue Orange",
-    "image": "http://barcelonajs.org/assets/img/sponsors/we-are-blue-orange.png",
-    "url": "http://www.weareblueorange.com/"
 }]
