@@ -43,5 +43,12 @@
         "id": "20160622-build-and-manage-a-serverless-api-in-js",
         "sameAs": "https://api.github.com/users/picsoung",
         "url": "/talk/20160622-build-and-manage-a-serverless-api-in-js.html"
+    }, {
+        "type": "Person",
+        "image": "https://avatars0.githubusercontent.com/u/844090?v=3&s=400",
+        "name": "Francesco Marino",
+        "id": "20160622-tumult-hype-the-new-way-of-responsive-design",
+        "sameAs": "https://api.github.com/users/360fun",
+        "url": "/talk/20160622-tumult-hype-the-new-way-of-responsive-design.html"
     }]
 }
