@@ -1,7 +1,7 @@
 [{
   "name": "NodeConf Barcelona",
   "url": "http://barcelona.nodeconf.com",
-  "image": "nodeconf.svg",
+  "image": "nodeconf.png",
   "contact": "nodeconf@barcelonajs.org"
 },{
   "name": "Barcelona Nodeschool",
