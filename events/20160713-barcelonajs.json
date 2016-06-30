@@ -35,5 +35,15 @@
   "github": "https://api.github.com/repos/BarcelonaJS/planning/issues/21",
   "url": "/event/20160713-barcelonajs.html",
   "name": "BarcelonaJS",
-  "about": "Barcelona.JS is a usergroup focused on JavaScript and related topics."
+  "about": "Barcelona.JS is a usergroup focused on JavaScript and related topics.",
+  "performer": [
+    {
+      "type": "Person",
+      "image": "https://avatars.githubusercontent.com/u/2853674?v=3",
+      "name": "Keith Woods",
+      "id": "20160713-building-complex-spas-with-react-and-esp",
+      "sameAs": "https://api.github.com/users/KeithWoods",
+      "url": "/talk/20160713-building-complex-spas-with-react-and-esp.html"
+    }
+  ]
 }
