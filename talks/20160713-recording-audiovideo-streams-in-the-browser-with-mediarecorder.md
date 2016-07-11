@@ -9,7 +9,7 @@
     "type": "Person",
     "githubId": 3996162,
     "id": "null",
-    "name": null,
+    "name": "Alex Saladrigas",
     "location": null,
     "github": "sajirdalas",
     "gravatar": "",
@@ -39,5 +39,4 @@ Mozilla, Google and other browser makers are hard at work standardizing new Web 
 
 On this talk I will explain the current version of the MediaRecorder and provide examples of code snippets that can be used to capture and encode audio and video from the browser. Depending on the time constrains it might also be possible to include pointers for manipulating the data from the streams using something like Web Audio API.
 
-I will give this talk as a Mozilla volunteer in the Tech Speakers program. 
-
+I will give this talk as a Mozilla volunteer in the Tech Speakers program.

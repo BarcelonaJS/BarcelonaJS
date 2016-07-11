@@ -36,22 +36,19 @@
   "url": "/event/20160713-barcelonajs.html",
   "name": "BarcelonaJS",
   "about": "Barcelona.JS is a usergroup focused on JavaScript and related topics.",
-  "performer": [
-    {
-      "type": "Person",
-      "image": "https://avatars.githubusercontent.com/u/2853674?v=3",
-      "name": "Keith Woods",
-      "id": "20160713-building-complex-spas-with-react-and-esp",
-      "sameAs": "https://api.github.com/users/KeithWoods",
-      "url": "/talk/20160713-building-complex-spas-with-react-and-esp.html"
-    },
-    {
-      "type": "Person",
-      "image": "https://avatars.githubusercontent.com/u/3996162?v=3",
-      "name": null,
-      "id": "20160713-recording-audiovideo-streams-in-the-browser-with-mediarecorder",
-      "sameAs": "https://api.github.com/users/sajirdalas",
-      "url": "/talk/20160713-recording-audiovideo-streams-in-the-browser-with-mediarecorder.html"
-    }
-  ]
+  "performer": [{
+    "type": "Person",
+    "image": "https://avatars.githubusercontent.com/u/2853674?v=3",
+    "name": "Keith Woods",
+    "id": "20160713-building-complex-spas-with-react-and-esp",
+    "sameAs": "https://api.github.com/users/KeithWoods",
+    "url": "/talk/20160713-building-complex-spas-with-react-and-esp.html"
+  }, {
+    "type": "Person",
+    "image": "https://avatars.githubusercontent.com/u/3996162?v=3",
+    "name": "Alex Saladrigas",
+    "id": "20160713-recording-audiovideo-streams-in-the-browser-with-mediarecorder",
+    "sameAs": "https://api.github.com/users/sajirdalas",
+    "url": "/talk/20160713-recording-audiovideo-streams-in-the-browser-with-mediarecorder.html"
+  }]
 }
